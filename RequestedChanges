@@ -1,0 +1,5 @@
+- recorded test - add assertion, without them this is not a test and the exam is failed
+- the practical task is not tested;
+- the test_untitled_test_case should be named with a meaningfull name;
+- remove dead code;
+- screenshot should be taken with Selenium code, not manually
